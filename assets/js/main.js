@@ -21,7 +21,7 @@ const app = Vue.createApp({
           q1: 'cloud',
         },
         stage2: {
-          q1: 'DESERT NO 189523',
+          q1: 'DESERT',
           // q2: '189523',
           // q3: '189523'
         },
